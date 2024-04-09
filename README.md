@@ -69,19 +69,18 @@
 
 ## 🌈 서비스 화면 소개
 
-
-|  | ![계좌개설1](https://github.com/kimsungsuu/momo/assets/90013342/cf8a168f-b00c-4b86-9714-ba661a6799ab)
- |
+| ![계좌개설1](https://github.com/kimsungsuu/momo/assets/90013342/cf8a168f-b00c-4b86-9714-ba661a6799ab) |![계좌개설3](https://github.com/kimsungsuu/momo/assets/90013342/41916794-43ff-4a76-aa79-65ba27d50d77)|![계좌개설4](https://github.com/kimsungsuu/momo/assets/90013342/58796f09-b402-4a34-bc11-06f58cec4441)|
 | :------------------------------------: | :----------------------------------------: | :-------------------------------------------: |
-|                홈 화면                 |                대기방 생성                 |                   게임 시작                   |
+|                계좌개설                 |                카드 추천 및 선택              |                  계좌 개설 확인              |
 
-| ![Enter Waitroom](./assets/screen/waitroom_enter.gif) | ![Enter Room](./assets/screen/room.gif) | ![Write Feed](./assets/screen/write_feed.gif) |
+| ![모임1](https://github.com/kimsungsuu/momo/assets/90013342/7f3f6a05-9e35-4077-aa15-92b3a6b5f744) | ![송금1](https://github.com/kimsungsuu/momo/assets/90013342/d0c6caff-9506-457c-b55f-a87046fc04b1) | ![송금2](https://github.com/kimsungsuu/momo/assets/90013342/5767f33f-d51d-43b1-90da-2c92864990e7)|
 | :---------------------------------------------------: | :-------------------------------------: | :-------------------------------------------: |
-|                      대기방 입장                      |                 방 입장                 |                   피드 작성                   |
+|                      모임 생성                    |                송금 계좌 입력               |                  송금 금액 설정               |
 
-| ![Predict Success](./assets/screen/predict_success.gif) | ![Enter Room](./assets/screen/predict_failed.gif) | ![Write Feed](./assets/screen/result.gif) |
+| ![송금3](https://github.com/kimsungsuu/momo/assets/90013342/39f44b70-18ab-4a97-8242-2be481323df4) | ![송금4](https://github.com/kimsungsuu/momo/assets/90013342/80c1113d-2e7b-4aa9-8ba0-57f385b80532) | ![피드1](https://github.com/kimsungsuu/momo/assets/90013342/4d83a775-83b3-432c-8c61-ad7056eac0db) |
 | :-----------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------: |
-|                        예측 성공                        |                     예측 실패                     |         결과 확인 및 이미지 저장          |
+|                       비밀번호 확인                        |                     거래내역                     |         모임 피드 및 공지사항        |
+
 
 ---
 
@@ -91,16 +90,13 @@
 
 <p>
 	<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-3178C6?style=flat-square&logo=Javascript&logoColor=white">
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white
   "/>
   <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white">
-  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white">
-  <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/editorconfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=black">
+  <img src="https://img.shields.io/badge/npm-2C8EBB?style=flat-square&logo=npm&logoColor=white">
+
 </p>
 
 ### Backend
@@ -110,8 +106,7 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white">
 	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/editorconfig-FEFEFE?style=flat-square&logo=editorconfig&logoColor=black">
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 </p>
 
 ### Database
@@ -126,10 +121,8 @@
 <p>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
-	<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white">
 	<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX_Proxy_Manager-F15833?style=flat-square&logo=nginxproxymanager&logoColor=white">
 </p>
@@ -147,12 +140,7 @@
 
 ## 📝 프로젝트 산출물
 
-- [Notion](https://ssafy-s10-a809.notion.site/Oomool-WIKI-e152fb257b3e45a1bbdb6fc3c569bbdd?pvs=4)
+- [Notion](https://www.notion.so/745b363783b64f90a9a63fc436e1bb34)
 
 ### 시스템 아키텍처
-
-![System Architecture](./assets/system_architecture.png)
-
-### E-R Diagram
-
-![ERD](./assets/erd.png)
+![image](https://github.com/kimsungsuu/momo/assets/90013342/aeef1adc-2434-48e1-b03e-97a8ee4d581a)
